@@ -1,3 +1,5 @@
+## Entrepreneur and Visionary
+
 With an extensive 11-year tenure in software development, I have excelled in a multitude of roles across both startup and corporate landscapes. My professional journey spans a spectrum of responsibilities, ranging from project management to hands-on coding, allowing me to navigate complex technical terrains with ease. I am a seasoned professional with a diverse skill set, specializing in data intelligence, team building, and software development. In the realm of data intelligence, my expertise lies in extracting valuable insights to inform strategic decision-making. My commitment to fostering collaboration and building high-performing teams has been a consistent theme throughout my career.<br>
 
 ## 1. Repository Quality and Build Status
